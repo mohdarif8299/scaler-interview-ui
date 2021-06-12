@@ -1,0 +1,28 @@
+form {
+    box-shadow: #dadada 0px 1px 2px 1px;
+    padding: 10px;
+    margin: auto;
+}
+.inpt-agenda {
+    border: 1px solid #dadada !important;
+    padding: 5px;
+    outline: none;
+}
+.react-datetime-picker__button svg {
+    display: none !important;
+}
+.bold {
+    font-weight: 900;
+}
+.participant {
+    box-shadow: #dadada 0px 1px 2px 1px;
+    padding: 10px;
+    margin: auto;
+}
+input[type=checkbox], input[type=radio] {
+    box-sizing: border-box;
+    padding: 0;
+    margin-left: 10px;
+    margin-top: 10px;
+    float: right;
+}
